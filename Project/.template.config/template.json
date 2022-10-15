@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sensedia - Julio Oliveira",
+  "classifications": [ "webapi", "sensedia" ], 
+  "name": "Sensedia API",
+  "identity": "ArcSensedia.API",         
+  "groupIdentity":"ArcSensedia.API",
+  "shortName": "arc",                    
+  "tags": {
+    "language": "C#",                        
+    "type":"project"
+  },
+  "sourceName": "ArcSensedia",              // Will replace the string 'MyProject.StarterWeb' with the value provided via -n.
+  "preferNameDirectory":true
+}
